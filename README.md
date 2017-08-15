@@ -5,4 +5,4 @@ A todos app written for Android in the Kotlin language. Features include: Authen
 The app will not run as is. You need to include your own google-services.json file from Firebase.
 
 ### Demo ###
-I have provided an apk for demoing the app. You can find it in the `/apk`
+I have provided an apk for demoing the app. You can find it in the `/apks`

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Todos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_a_new_todo">Create a new todo!</string>
+    <string name="touch_to_edit">Touch to Edit...</string>
+    <string name="add">add</string>
+    <string name="todo">// TODO</string>
+    <string name="search_todos">Search todos...</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="client_id">todos-32e4b</string>
+    <string name="save">Save</string>
+    <string name="not_saved">Not Saved!</string>
+    <string name="todos_not_saved_msg">Your todo(s) have not been saved! Are you sure you want to permanently delete them?</string>
+    <string name="exit">Exit</string>
+    <string name="todos">Todos</string>
+    <string name="delete_todos">Delete todos...</string>
+    <string name="failed_to_save_todos">Failed to save todos</string>
+    <string name="failed_to_delete_todos">Failed to delete todos</string>
+    <string name="failed_to_update_todos">Failed to update todos</string>
+    <string name="failed_to_update_todo_item">Failed to update todo.</string>
+
+</resources>
